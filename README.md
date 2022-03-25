@@ -14,7 +14,7 @@ I developed this as part of my project for the Thinkful Software Engineering cou
 
 Built with
 
-- Javascript
+- JavaScript
 - HTML/CSS
 - Node.js
 - Express
