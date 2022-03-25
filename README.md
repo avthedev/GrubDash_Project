@@ -6,9 +6,9 @@ This app replicates GrubHub by allowing users to see dishes with their descripti
 
 I developed this as part of my project for the Thinkful Software Engineering course. It is a back-end project that uses Thinkful's front-end starter linked below.
 
-## Screenshots
+## Demo
 
-![](./gif/res-rev-demo.gif)
+![](./gif/gif-grubdash.gif)
 
 ## Technology
 
