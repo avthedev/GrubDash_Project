@@ -19,6 +19,13 @@ Built with
 - Node.js
 - Express
 
+## Features
+
+- Add to Cart button
+- Create a dish allows user to add a name, description, image url, and price
+- Dashboard that displays current orders and dishes (in the future, dashboard will not be visible to all users, only owners)
+- Check out feature: allows user to add delivery address, phone number, and displays items, quantity and total price
+
 ## Installation
 
 This is Back-End project, please go to https://github.com/Thinkful-Ed/starter-grub-dash-front-end and follow the installation guide to get the Front-End to run
